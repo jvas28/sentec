@@ -4,7 +4,7 @@
 import json
 import requests 
 from operator import itemgetter
-access_token="AAAAAAAAAAAAAAAAAAAAAH6RxgAAAAAA%2F%2FHkyDlb8mWSa1JH%2Bpb%2FBzWfKI4%3DZzGw8dlYzgc4dvdqotvtMbIMeKwql9jLUeNJV3Enyaa4i34Fkb";
+access_token="YOUR_ACCESS_TOKEN";
 iteration_limit=100
 iteration_count=0
 def getTweets(params):
